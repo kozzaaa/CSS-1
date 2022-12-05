@@ -1,0 +1,50 @@
+/* #blok1 {
+
+    line-height: 3;
+    font-size: 10px;
+    color: red;
+    text-align: justify;
+
+}
+
+#blok2 {
+
+    line-height: 1.5em;
+    font-size: 10px;
+    color: blue;
+    text-align: justify;
+    
+}
+
+#blok3 {
+
+    line-height: 200%;
+    font-size: 10px;
+    color: green;
+    text-align: justify;
+    
+} */
+
+#blok1 {
+
+    text-indent: 40px;
+    text-align: justify;
+    letter-spacing: 10px;
+
+}
+
+#blok2 {
+
+    color: blue;
+    text-align: justify;
+    word-spacing: 10px;
+
+}
+
+#blok3 {
+
+    color: green;
+    text-align: justify;
+    white-space: nowrap;
+
+}
